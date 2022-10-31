@@ -154,7 +154,7 @@
             // 
             this.EstaActivoCheckBox.AutoSize = true;
             this.EstaActivoCheckBox.Enabled = false;
-            this.EstaActivoCheckBox.Location = new System.Drawing.Point(181, 321);
+            this.EstaActivoCheckBox.Location = new System.Drawing.Point(176, 321);
             this.EstaActivoCheckBox.Name = "EstaActivoCheckBox";
             this.EstaActivoCheckBox.Size = new System.Drawing.Size(15, 14);
             this.EstaActivoCheckBox.TabIndex = 11;
